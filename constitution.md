@@ -18,7 +18,7 @@ Definitions
 ARTICLE I: Name
 ---------------
 
-The name of this organization shall be “Hack4Impact.”
+The name of this organization shall be “Hack4Impact - Michigan”.
 
 
 ARTICLE II: Membership
@@ -39,7 +39,7 @@ ARTICLE II: Membership
 	1. Purpose: To provide a basic knowledge of technology and social impact to new members and to integrate them into the culture of the club.
 	2. Members responsible: Community Chair, Education Chair, and Co-Directors.
 	3. The onboarding process will include, but is not limited to, technical, community, and social impact-related education. In this process:
-		1. No onboarding task should violate the rules of the Penn Book and any relevant external regulations. The tasks should not endanger the mental or physical health and well-being of any new member. 
+		1. No onboarding task should violate the University of Michigan's Standards of Conduct and any relevant external regulations. The tasks should not endanger the mental or physical health and well-being of any new member. 
 		2. New Members’ completion of the onboarding is up to the discretion of the board.
 		3. In extenuating circumstances, Executive Board reserves the right to remove a member from the club anytime within the first semester of their membership by near-unanimous Executive Board agreement.
 
@@ -75,7 +75,7 @@ ARTICLE II: Membership
 			1. Community permissions
 				1. Participate in the election process for the organization.
 				2. Access communication platforms.
-	5. A *second semester senior member* is a member who is in the second semester of their senior year at Penn and who is not an inactive member or a member on probation.
+	5. A *second semester senior member* is a member who is in the second semester of their senior year at Michigan and who is not an inactive member or a member on probation.
 		1. Responsibilities:
 			1. Community responsibilities
 				1. Attend hapens.
@@ -93,7 +93,7 @@ ARTICLE II: Membership
 		3. Attend and be an active participant in the Projects Chair’s meetings.
 		4. Schedule and lead (at least) weekly meetings with their developer team. 
 		5. Participate in the process of evaluating other PM and TLs throughout each semester. This process will be laid down by the Projects Chair at the beginning of each semester.
-		6. *Note:* Students in their last semester at Penn are not allowed to be a PM unless there is a shortage of members interested in taking on a PM role.
+		6. *Note:* Students in their last semester at Michigan are not allowed to be a PM unless there is a shortage of members interested in taking on a PM role.
 
 3. Additional Responsibilities for Technical Leads ("TLs")
 	1. In addition to the responsibilities of an active member, TLs have the following responsibilities:
@@ -102,7 +102,7 @@ ARTICLE II: Membership
 		3. Distribute project tasks among their team's members in a clear, timely, and equitable manner.
 		4. Participate in the process of evaluating other PM and TLs throughout each semester. This process will be laid down by the Projects Chair at the beginning of each semester.
 		5. Participate in mid-semester feedback with all members of their team.
-		6. *Note:* Students in their last semester at Penn are not allowed to be a TL unless there is a shortage of members interested in taking on a TL role.
+		6. *Note:* Students in their last semester at Michigan are not allowed to be a TL unless there is a shortage of members interested in taking on a TL role.
 
 ### Section III: Alum Status
 
